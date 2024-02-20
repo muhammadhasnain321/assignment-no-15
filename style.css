@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbaro{
+    background-color: #121212;
+}
+.section1{
+    background-image:url(hero_iphone15pro__i70z9oz3hj2i_medium_2x.jpg);
+    background-size: 80%;
+    /* padding: 250px; */
+    background-position: center;
+    height: 570px;
+    width: 100%;
+    background-repeat: no-repeat;
+    padding: -20px;
+
+}
+.section2{
+    background-image: url(hero_iphone15_announce__uuemlcwczn6u_medium_2x.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+
+
+}
+.section3{
+    background-image: url(image3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    padding-top:320px;
+}
+
+.section4a{
+    background-image: url(image4.jpg);
+    height: 500px;
+    /* width: 100%; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section4b{
+    background-image: url(image5.jpg);
+    height: 500px;
+    /* width: 100%; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.section5a{
+    background-image: url(image6.jpg);
+    height: 500px;
+    /* width: 100%; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section5b{
+    background-image: url(image7.jpg);
+    height: 500px;
+    /* width: 100%; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section6a{
+    background-image: url(image8.jpg);
+    height: 500px;
+    /* width: 100%; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section6b{
+    background-image: url(image9.jpg);
+    height: 500px;
+    /* width: 100%; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+@media (max-width: 768px){
+    .section1{ 
+        background-image: url(hero_iphone15pro__i70z9oz3hj2i_small_2x.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 100%;
+        background-repeat: no-repeat;
+        font-size: 10px;
+        padding: 
+
+    }
+
+
+    .section2{
+        background-image: url(hero_iphone15_announce__uuemlcwczn6u_small_2x.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-size: 80%;
+        height: 500px;
+        width: 100%;
+    }
+
+
+    .section3{
+        
+        font-size: 80%;
+        height: 500px;
+        width: 100%;
+    }
+
+    .section4a{
+        height: 500px;
+        width: 100%;
+    }
+
+    .section4b{
+        background-image: url(image5\ a.jpg);
+        height: 500px;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
